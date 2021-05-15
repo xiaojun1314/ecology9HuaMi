@@ -5,6 +5,7 @@ OA访问地址 sysadmin 1
 http://10.0.234.31:81/
 服务器连接地址
 https://10.0.234.250/bhost/
+用户   douweijian  密码a.123456
 
 数据库 地址 10.0.234.29  用户名 root  密码 Huami@1234
 
